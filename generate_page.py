@@ -1,7 +1,7 @@
 """Generate an HTML page"""
 
 import dominate
-from dominate import tags 
+from dominate import tags
 
 doc = dominate.document(title='Dominate your HTML')
 
