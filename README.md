@@ -1,2 +1,2 @@
 # Workflow test
-Testing Git and GitHub workflows
+Just testing Git and GitHub workflows.
